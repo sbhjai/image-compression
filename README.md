@@ -1,3 +1,5 @@
+# Image compression for web
+
 ## Goal
 To optimize images for quality and loading speed.
 
@@ -65,3 +67,8 @@ On the right:
 ### Conclusion
 The comparison shows that the 96 DPI at 85% file size is ~ 40% smaller than 72 DPI at 85%, while it can delivery the similar visual quality.
 So, the higher DPI at the lower quality is the optimal way of image compression.
+
+
+### Tools and sources of this experiment
+* https://imagemagick.org/index.php
+* https://unsplash.com
