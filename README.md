@@ -46,7 +46,9 @@ On the right:
 * File size: 86 KB
 
 ***
-<img width="461" alt="image" src="https://github.com/user-attachments/assets/4390a8fe-2ebd-442f-b972-c554a3057588">
+
+<img width="80%" alt="image" src="https://github.com/user-attachments/assets/4390a8fe-2ebd-442f-b972-c554a3057588">
+
 On the left:
 * DPI: 96 DPI
 * Quality: 75%
@@ -59,8 +61,7 @@ On the right:
 * Dimension: 1000 x 667 px
 * File size: 148 KB
 
-### The 96 DPI at 85% file size is ~ 40% smaller than 72 DPI at 85%
-
 
 ### Conclusion
-The 96 DPI at the lower quality can have the same visual quality with the 72 DPI at higher quality with the smaller file size
+The comparison shows that the 96 DPI at 85% file size is ~ 40% smaller than 72 DPI at 85%, while it can delivery the similar visual quality.
+So, the higher DPI at the lower quality is the optimal way of image compression.
